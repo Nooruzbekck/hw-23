@@ -1,0 +1,9 @@
+.li{
+    text-decoration: line-through;
+    list-style: none;
+    color: red;
+}
+input:checked + span {
+    
+    text-decoration: line-through;
+}
